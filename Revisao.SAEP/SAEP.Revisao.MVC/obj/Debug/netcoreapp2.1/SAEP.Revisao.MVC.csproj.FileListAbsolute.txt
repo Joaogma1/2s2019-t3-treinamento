@@ -27,7 +27,6 @@ C:\Users\00836578279\Desktop\2s2019-t3-treinamento\Revisao.SAEP\SAEP.Revisao.MVC
 C:\Users\00836578279\Desktop\2s2019-t3-treinamento\Revisao.SAEP\SAEP.Revisao.MVC\obj\Debug\netcoreapp2.1\SAEP.Revisao.MVC.pdb
 C:\Users\00836578279\Desktop\2s2019-t3-treinamento\Revisao.SAEP\SAEP.Revisao.MVC\obj\Debug\netcoreapp2.1\SAEP.Revisao.MVC.csproj.CopyComplete
 C:\Users\00836578279\Desktop\2s2019-t3-treinamento\Revisao.SAEP\SAEP.Revisao.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Login\Create.g.cshtml.cs
-C:\Users\00836578279\Desktop\2s2019-t3-treinamento\Revisao.SAEP\SAEP.Revisao.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Login\Delete.g.cshtml.cs
-C:\Users\00836578279\Desktop\2s2019-t3-treinamento\Revisao.SAEP\SAEP.Revisao.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Login\Details.g.cshtml.cs
-C:\Users\00836578279\Desktop\2s2019-t3-treinamento\Revisao.SAEP\SAEP.Revisao.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Login\Edit.g.cshtml.cs
-C:\Users\00836578279\Desktop\2s2019-t3-treinamento\Revisao.SAEP\SAEP.Revisao.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\00836578279\Desktop\2s2019-t3-treinamento\Revisao.SAEP\SAEP.Revisao.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Registro\Create.g.cshtml.cs
+C:\Users\00836578279\Desktop\2s2019-t3-treinamento\Revisao.SAEP\SAEP.Revisao.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Registro\Index.g.cshtml.cs
+C:\Users\00836578279\Desktop\2s2019-t3-treinamento\Revisao.SAEP\SAEP.Revisao.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_login.g.cshtml.cs

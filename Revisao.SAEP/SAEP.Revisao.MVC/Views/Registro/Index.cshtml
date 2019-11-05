@@ -1,0 +1,51 @@
+﻿@model IEnumerable<SAEP.Revisao.MVC.Dominios.RegistroDefeito>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@if (ViewBag.Mensagem != null)
+{
+    <div class="alert alert-success" role="alert">
+        @Html.Raw(ViewBag.Mensagem)
+    </div>
+}
+<h2>Relatórios</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Data
+            </th>
+            <th>
+                Equipamento
+            </th>
+            <th>
+                Defeito
+            </th>
+            <th>
+                Descrição
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataRegistro)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdTipoEquipamentoNavigation.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdDefeitoNavigation.NomeDefeito)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descricao)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
